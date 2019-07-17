@@ -13,8 +13,28 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <serenity.version>2.0.60</serenity.version>
-        <webdriver.driver>chrome</webdriver.driver>
     </properties>
+    <repositories>
+      <repository>
+        <snapshots>
+        <enabled>false</enabled>
+        </snapshots>
+        <id>central</id>
+        <name>bintray</name>
+        <url>http://jcenter.bintray.com</url>
+      </repository>
+    </repositories>
+
+    <pluginRepositories>
+      <pluginRepository>
+        <snapshots>
+        <enabled>false</enabled>
+        </snapshots>
+        <id>central</id>
+        <name>bintray-plugins</name>
+        <url>http://jcenter.bintray.com</url>
+      </pluginRepository>
+    </pluginRepositories>
     <dependencies>
         <dependency>
             <groupId>net.serenity-bdd</groupId>
@@ -52,27 +72,6 @@
             <version>3.8.0</version>
         </dependency>
     </dependencies>
-    <repositories>
-      <repository>
-        <snapshots>
-        <enabled>false</enabled>
-        </snapshots>
-        <id>central</id>
-        <name>bintray</name>
-        <url>http://jcenter.bintray.com</url>
-      </repository>
-    </repositories>
-    <pluginRepositories>
-      <pluginRepository>
-        <snapshots>
-        <enabled>false</enabled>
-        </snapshots>
-        <id>central</id>
-        <name>bintray-plugins</name>
-        <url>http://jcenter.bintray.com</url>
-      </pluginRepository>
-    </pluginRepositories>
-
 
     <build>
         <plugins>
@@ -95,9 +94,9 @@
                         <include>**/*Story.java</include>
                     </includes>
                     <argLine>-Xmx512m</argLine>
-                    <!--<systemPropertyVariables>-->
-                        <!--<webdriver.driver>${webdriver.driver}</webdriver.driver>-->
-                    <!--</systemPropertyVariables>-->
+                    <systemPropertyVariables>
+
+                    </systemPropertyVariables>
                 </configuration>
                 <executions>
                     <execution>

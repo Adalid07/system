@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9949abe7-2914-423d-8b46-35907da6abea" name="Default Changelist" comment="" />
+    <list default="true" id="9949abe7-2914-423d-8b46-35907da6abea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-net.serenitybdd.tutorials.features.search.SearchByKeywordStory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-net.serenitybdd.tutorials.features.search.SearchByKeywordStory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/net.serenitybdd.tutorials.features.search.SearchByKeywordStory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/net.serenitybdd.tutorials.features.search.SearchByKeywordStory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/157f7e5bbde6665c77060a6ab56b1b5d86028c4a189cb7f72afa1d2d511af442.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/21fcbb0a90d8e2bccf12d8a0e55781b30c5e521706ba9997e062d01b5936d51f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/23d921076cab3dfa3de405f68c108e3102c71370c26ee830ef993cf18e0d8ad9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/2a4631d87648e59c428d4cf0e9247f9d286e4679f436ca2ce872e931eb4dfd58.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/2a4631d87648e59c428d4cf0e9247f9d286e4679f436ca2ce872e931eb4dfd58.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/312dfe543fe71b9508ec885559dd6913e60b5f049325f6becd27b45ff7fc93b0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/495809af5bfc9f598c1ecc22d83dbf4b429a0285c52cf23d310963e576bcaac5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5845d85ee120b89cd2e0044183c0a45052086a323f379ecd7cb3693af160bf77.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5845d85ee120b89cd2e0044183c0a45052086a323f379ecd7cb3693af160bf77.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5845d85ee120b89cd2e0044183c0a45052086a323f379ecd7cb3693af160bf77.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5845d85ee120b89cd2e0044183c0a45052086a323f379ecd7cb3693af160bf77.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7019f09007c0fca39e1630054e3889cd42b645fa945d1d11a5cd96aaf18ae3b8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7b98ab63a1f66587e18b1d9e9de56423ebc1935e2b0df5669f2965b1b61d2c47.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/7b98ab63a1f66587e18b1d9e9de56423ebc1935e2b0df5669f2965b1b61d2c47.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7cdbe48e47e3c9a1656595e41726cd9d483bf7dde3f5520eb9a42c49864530a4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/87ea1e22e374f759d8ffbc9ef1ee12449f710c43536bf67bdd57b9f8c776fea7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/9ddadbb05daf86d18f74c97a07a3eb11697226194dda30626c6a3b082129c0a7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/9ddadbb05daf86d18f74c97a07a3eb11697226194dda30626c6a3b082129c0a7.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/9ddadbb05daf86d18f74c97a07a3eb11697226194dda30626c6a3b082129c0a7.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/9ddadbb05daf86d18f74c97a07a3eb11697226194dda30626c6a3b082129c0a7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/9edf0308db710a833d7710acab53f7f7a0f85b2b72dc393b88056d2ccb3393ff.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c07d2f4182afabb6753f79cc8a52d374961e23843558d689d12eb4f0a46af9ea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c07d2f4182afabb6753f79cc8a52d374961e23843558d689d12eb4f0a46af9ea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a4f79790fcefa9d1f6661bc588537a383055c8e0ec74d83ec83f31e3493edce0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a4f79790fcefa9d1f6661bc588537a383055c8e0ec74d83ec83f31e3493edce0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a4f79790fcefa9d1f6661bc588537a383055c8e0ec74d83ec83f31e3493edce0.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a4f79790fcefa9d1f6661bc588537a383055c8e0ec74d83ec83f31e3493edce0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b53c1f18264e7b94e85eea237a7833b0066dfd68a111d28fd65bc7d7cf147f56.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b53c1f18264e7b94e85eea237a7833b0066dfd68a111d28fd65bc7d7cf147f56.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b53c1f18264e7b94e85eea237a7833b0066dfd68a111d28fd65bc7d7cf147f56.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b53c1f18264e7b94e85eea237a7833b0066dfd68a111d28fd65bc7d7cf147f56.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b73ab2df35cd94b5317e6d6bfdb3d2310ff26862ef2f19989342051d05f64b83.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b73ab2df35cd94b5317e6d6bfdb3d2310ff26862ef2f19989342051d05f64b83.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c07d2f4182afabb6753f79cc8a52d374961e23843558d689d12eb4f0a46af9ea.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c07d2f4182afabb6753f79cc8a52d374961e23843558d689d12eb4f0a46af9ea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c07d2f4182afabb6753f79cc8a52d374961e23843558d689d12eb4f0a46af9ea.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c07d2f4182afabb6753f79cc8a52d374961e23843558d689d12eb4f0a46af9ea.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/requirements/net.serenitybdd.tutorials.features-package-requirements.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/requirements/net.serenitybdd.tutorials.features-package-requirements.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tutorial1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/tutorial1-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +64,10 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="gradle" value="1" />
-          <entry key="java" value="7" />
+          <entry key="html" value="1" />
+          <entry key="java" value="8" />
           <entry key="properties" value="1" />
           <entry key="xml" value="2" />
         </counts>
@@ -28,23 +75,27 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="7" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="8" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="gitignore" value="6" />
           <entry key="gradle" value="1" />
-          <entry key="properties" value="7" />
-          <entry key="xml" value="8" />
+          <entry key="properties" value="11" />
+          <entry key="xml" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="Properties" value="7" />
-          <entry key="XML" value="8" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Properties" value="11" />
+          <entry key="XML" value="22" />
         </counts>
       </usages-collector>
     </session>
@@ -60,11 +111,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            <state relative-caret-position="168">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding>
+                <element signature="n#properties#0;n#project#0;n#!!top" />
+                <element signature="n#pluginRepositories#0;n#project#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,8 +127,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/net/serenitybdd/tutorials/features/search/SearchByKeywordStory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="338">
+              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/target/site/serenity/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/net/serenitybdd/tutorials/ui/GoogleSearchPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -90,8 +168,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serenity.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="21">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -102,14 +180,19 @@
     <findStrings>
       <find>webdriver</find>
       <find>dependencies</find>
+      <find>artifac</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/serenity.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/serenity.properties" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -119,12 +202,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1350" />
     <option name="height" value="690" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -142,92 +233,50 @@
             <path>
               <item name="tutorial1" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorial1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tutorial1" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorial1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tutorial1" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorial1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="serenity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tutorial1" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorial1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tutorial1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tutorial1" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
               <item name="net" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tutorial1" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorial1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="serenitybdd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorial1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorial1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
               <item name="net" type="462c0819:PsiDirectoryNode" />
               <item name="serenitybdd" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tutorial1" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorial1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
               <item name="net" type="462c0819:PsiDirectoryNode" />
               <item name="serenitybdd" type="462c0819:PsiDirectoryNode" />
               <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorial1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorial1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="serenitybdd" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorial1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorial1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="serenitybdd" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="tasks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorial1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorial1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="serenitybdd" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,7 +287,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563324257700" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563327449612" />
     <property name="last_opened_file_path" value="D:/ideaProyetcs/java_proyect11/webExample1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -286,7 +335,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563320223392</updated>
-      <workItem from="1563320228813" duration="2843000" />
+      <workItem from="1563320228813" duration="5673000" />
     </task>
     <servers />
   </component>
@@ -294,29 +343,31 @@
     <history-entry file="SearchByKeywordStory - 2019.07.16 at 19h 43m 35s.xml">
       <configuration name="SearchByKeywordStory" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SearchByKeywordStory - 2019.07.16 at 21h 34m 05s.xml">
+      <configuration name="SearchByKeywordStory" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2843000" />
+    <option name="totallyTimeSpent" value="5673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2946309" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="1" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.2979021" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="1.0" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.2895105" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -341,13 +392,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/serenitybdd/tutorials/ui/GoogleSearchPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/net/serenitybdd/tutorials/ui/SearchBox.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -357,13 +401,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/serenity.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/net/serenitybdd/tutorials/tasks/Search.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -379,19 +416,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/serenitybdd/tutorials/features/search/SearchByKeywordStory.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="168">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="n#properties#0;n#project#0;n#!!top" />
+            <element signature="n#pluginRepositories#0;n#project#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/serenity.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        <state relative-caret-position="21">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/serenitybdd/tutorials/ui/GoogleSearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/serenitybdd/tutorials/features/search/SearchByKeywordStory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/site/serenity/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

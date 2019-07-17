@@ -105,7 +105,7 @@
             <a href="2a4631d87648e59c428d4cf0e9247f9d286e4679f436ca2ce872e931eb4dfd58.html"><i class="fa fa-comments-o"></i> Stories</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 16-07-2019 20:35</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 16-07-2019 21:33</span>
     <br style="clear:left"/>
 </div>
     <div class="clr"></div>
@@ -138,9 +138,9 @@
                 <table class="outcome-header">
                     <tr>
                         <td colspan="2" class="test-title-bar">
-                            <span class="outcome-icon"><i class='fa fa-exclamation-triangle error-icon fa-2x' title='ERROR'></i></span>
+                            <span class="outcome-icon"><i class='fa fa-check-circle-o success-icon fa-2x' title='SUCCESS'></i></span>
                             <span class="test-case-title">
-                                <span class="error-color">
+                                <span class="success-color">
                                     Search results should show the search term in the title
                                         <span class="related-issue-title"></span>
                                 </span>
@@ -210,22 +210,22 @@
                     <th width="65">                        &nbsp;
                     </th>
 
-                        <th width="%"
-                            class="step-description-wide-column greentext">
+                        <th width="%" class="step-description-column greentext">
                             Steps
                         </th>
+                        <th width="150" class="greentext">Screenshots</th>
                     <th width="130" class="greentext">Outcome</th>
                     <th width="80" class="greentext"><i title="Duration" class="far fa-clock"></i></th>
                 </tr>
                 <tr class="step-table-separator">
                     <td colspan="5"></td>
                 </tr>
-                <tr class="test-ERROR">
+                <tr class="test-SUCCESS">
                     <td width="50" class="step-icon">
                         <a name="0"/>
                             <a href="javaScript:void(0)" onClick="toggleDiv('stepSection0')"
                                style="display:block">
-                                <i class="fa fa-plus-square-o imgstepSection0 error-icon"
+                                <i class="fa fa-plus-square-o imgstepSection0 success-icon"
                                    style="margin-left: 20px; float:left;  padding-right:5px"></i>
                             </a>
                     </td>
@@ -241,18 +241,27 @@
                             </span>
                         </div>
                     </td>
-                    <td width="100"><span class="top-level-step">ERROR</span></td>
-                    <td width="100"><span class="top-level-step">2.61s</span></td>
+                        <td width="160" class="SUCCESS-text">
+
+                                <a href="c07d2f4182afabb6753f79cc8a52d374961e23843558d689d12eb4f0a46af9ea_screenshots.html#screenshots?screenshot=2">
+                                    <img src="5633b2f01221d303189dedb72b057ea78a0ff1041b24056fc47d9a7f9ab341cb.png"
+                                         href="5633b2f01221d303189dedb72b057ea78a0ff1041b24056fc47d9a7f9ab341cb.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="top-level-step">SUCCESS</span></td>
+                    <td width="100"><span class="top-level-step">6.82s</span></td>
                 </tr>
                 <tr>
                     <td colspan="5">
                         <table id="stepSection0" style="display:none; width:100%">
 
-                <tr class="test-ERROR">
+                <tr class="test-SUCCESS">
                     <td width="50" class="step-icon">
                         <a name="0-2"/>
                             <span style="margin-left: 40px; margin-right: 5px;"
-                                  class="nested-group-icon"><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></span>
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
                     </td>
                     <td>
                         <div class="step-description">
@@ -263,81 +272,109 @@
                             </span>
                         </div>
                     </td>
-                    <td width="100"><span class="nested-group-step">ERROR</span></td>
-                    <td width="100"><span class="nested-group-step">2.58s</span></td>
-                </tr>
-                    <tr class="test-ERROR">
-                        <td width="40">&nbsp</td>
-                        <td width="%" colspan="3" class="error-message-cell">
+                        <td width="160" class="SUCCESS-text">
 
-
-    <div style="display:block">
-        <div class="table">
-            <div class="row">
-                <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
-                    <span class="error-message error-message-title">net.thucydides.core.webdriver.DriverConfigurationError: Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</span>
-                </div>
-                <div class="col-sm-2">
-                    <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-2""
-                       role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="far fa-eye"></i> More details</a>
-                </div>
-             </div>
-        </div>
-    <div>
-
-    <!-- Details Section -->
-    <div class="row stacktrace-details">
-      <div class="col">
-        <div class="collapse multi-collapse" id="stacktraceModal-2">
-            <div class="card">
-                <div class="card-header">
-                    <h4>net.thucydides.core.webdriver.DriverConfigurationError </h4>
-                </div>
-                <div class="card-body">
-                    <div>
-                        <pre>net.serenitybdd.tutorials.tasks.OpenTheApplication.performAs(OpenTheApplication.java:15)<br />net.serenitybdd.tutorials.features.search.SearchByKeywordStory.search_results_should_show_the_search_term_in_the_title(SearchByKeywordStory.java:41)<br /></pre>
-                    </div>
-
-                    <h4>
-                        Caused by: net.thucydides.core.webdriver.DriverConfigurationError
-                    </h4>
-                    <div>
-                            <pre>Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 76<br>Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'<br>System info: host: 'ADALID', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'<br>Driver info: driver.version: ProvideNewDriver<br>remote stacktrace: Backtrace:<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x00447B13+1473299]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x003CAC61+961633]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x003541A3+475555]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x002EF365+62309]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x002EBC77+48247]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x00308FD9+167897]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x00308BAD+166829]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x003072BB+160443]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x002F0AE6+68326]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x002F1A80+72320]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x002F1A19+72217]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x003E4A27+1067559]<br>&nbsp; &nbsp; &nbsp; &nbsp;GetHandleVerifier [0x004E66F5+506677]<br>&nbsp; &nbsp; &nbsp; &nbsp;GetHandleVerifier [0x004E6490+506064]<br>&nbsp; &nbsp; &nbsp; &nbsp;GetHandleVerifier [0x004ED038+533624]<br>&nbsp; &nbsp; &nbsp; &nbsp;GetHandleVerifier [0x004E6ECA+508682]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x003DC116+1032470]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x003DBF8F+1032079]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x003E693B+1075515]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x003E6AA3+1075875]<br>&nbsp; &nbsp; &nbsp; &nbsp;Ordinal0 [0x003E5A55+1071701]<br>&nbsp; &nbsp; &nbsp; &nbsp;BaseThreadInitThunk [0x742F8494+36]<br>&nbsp; &nbsp; &nbsp; &nbsp;RtlAreBitsSet [0x773341C8+136]<br>&nbsp; &nbsp; &nbsp; &nbsp;RtlAreBitsSet [0x77334198+88]<br>). See below for more details.</pre>
-                        <pre>net.serenitybdd.tutorials.tasks.OpenTheApplication.performAs(OpenTheApplication.java :15)<br />net.serenitybdd.tutorials.features.search.SearchByKeywordStory.search_results_should_show_the_search_term_in_the_title(SearchByKeywordStory.java :41)<br /></pre>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+                                <a href="c07d2f4182afabb6753f79cc8a52d374961e23843558d689d12eb4f0a46af9ea_screenshots.html#screenshots?screenshot=1">
+                                    <img src="5633b2f01221d303189dedb72b057ea78a0ff1041b24056fc47d9a7f9ab341cb.png"
+                                         href="5633b2f01221d303189dedb72b057ea78a0ff1041b24056fc47d9a7f9ab341cb.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
                         </td>
-                    </tr>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">6.79s</span></td>
+                </tr>
 
                         </table>
                     </td>
                 <tr>
-                <tr class="test-SKIPPED">
+                <tr class="test-SUCCESS">
                     <td width="50" class="step-icon">
                         <a name="1"/>
-                            <span style="margin-left: 20px; margin-right: 5px;"
-                                  class="top-level-icon"><i class='fa fa-fast-forward skipped-icon ' title='SKIPPED'></i></span>
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1')"
+                               style="display:block">
+                                <i class="fa fa-plus-square-o imgstepSection1 success-icon"
+                                   style="margin-left: 20px; float:left;  padding-right:5px"></i>
+                            </a>
                     </td>
                     <td>
                         <div class="step-description">
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1')"
+                               style="display:block;">
                                 <span class="top-level-step">
                                 Search for BDD In Action
+                            </span>
+                            </a>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                        <td width="160" class="SUCCESS-text">
+                                <a href="c07d2f4182afabb6753f79cc8a52d374961e23843558d689d12eb4f0a46af9ea_screenshots.html#screenshots?screenshot=3">
+                                    <img src="fcd9f5139b5cca07f946e9c06b0da12921cf2286a0cd3866122eddc966bc46b2.png"
+                                         href="fcd9f5139b5cca07f946e9c06b0da12921cf2286a0cd3866122eddc966bc46b2.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                                <i class="fas fa-arrow-right"></i>
+
+                                <a href="c07d2f4182afabb6753f79cc8a52d374961e23843558d689d12eb4f0a46af9ea_screenshots.html#screenshots?screenshot=6">
+                                    <img src="049be8b0e72cf7a44fcbc58c3c67a9b7b275afa77ae8fb46475d6c094aa9af4a.png"
+                                         href="049be8b0e72cf7a44fcbc58c3c67a9b7b275afa77ae8fb46475d6c094aa9af4a.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="top-level-step">SUCCESS</span></td>
+                    <td width="100"><span class="top-level-step">2.24s</span></td>
+                </tr>
+                <tr>
+                    <td colspan="5">
+                        <table id="stepSection1" style="display:none; width:100%">
+
+                <tr class="test-SUCCESS">
+                    <td width="50" class="step-icon">
+                        <a name="1-2"/>
+                            <span style="margin-left: 40px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                Anna enters 'BDD In Action' then hits [ENTER] into search field
                             </span>
                             <span class="evidence">
                             </span>
                         </div>
                     </td>
-                    <td width="100"><span class="top-level-step">SKIPPED</span></td>
-                    <td width="100"><span class="top-level-step">0s</span></td>
+                        <td width="160" class="SUCCESS-text">
+                                <a href="c07d2f4182afabb6753f79cc8a52d374961e23843558d689d12eb4f0a46af9ea_screenshots.html#screenshots?screenshot=4">
+                                    <img src="fcd9f5139b5cca07f946e9c06b0da12921cf2286a0cd3866122eddc966bc46b2.png"
+                                         href="fcd9f5139b5cca07f946e9c06b0da12921cf2286a0cd3866122eddc966bc46b2.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                                <i class="fas fa-arrow-right"></i>
+
+                                <a href="c07d2f4182afabb6753f79cc8a52d374961e23843558d689d12eb4f0a46af9ea_screenshots.html#screenshots?screenshot=5">
+                                    <img src="049be8b0e72cf7a44fcbc58c3c67a9b7b275afa77ae8fb46475d6c094aa9af4a.png"
+                                         href="049be8b0e72cf7a44fcbc58c3c67a9b7b275afa77ae8fb46475d6c094aa9af4a.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">2.17s</span></td>
                 </tr>
-                <tr class="test-SKIPPED">
+
+                        </table>
+                    </td>
+                <tr>
+                <tr class="test-SUCCESS">
                     <td width="50" class="step-icon">
                         <a name="2"/>
                             <span style="margin-left: 20px; margin-right: 5px;"
-                                  class="top-level-icon"><i class='fa fa-fast-forward skipped-icon ' title='SKIPPED'></i></span>
+                                  class="top-level-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
                     </td>
                     <td>
                         <div class="step-description">
@@ -348,13 +385,22 @@
                             </span>
                         </div>
                     </td>
-                    <td width="100"><span class="top-level-step">SKIPPED</span></td>
-                    <td width="100"><span class="top-level-step">0s</span></td>
+                        <td width="160" class="SUCCESS-text">
+
+                                <a href="c07d2f4182afabb6753f79cc8a52d374961e23843558d689d12eb4f0a46af9ea_screenshots.html#screenshots?screenshot=7">
+                                    <img src="049be8b0e72cf7a44fcbc58c3c67a9b7b275afa77ae8fb46475d6c094aa9af4a.png"
+                                         href="049be8b0e72cf7a44fcbc58c3c67a9b7b275afa77ae8fb46475d6c094aa9af4a.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="top-level-step">SUCCESS</span></td>
+                    <td width="100"><span class="top-level-step">0.42s</span></td>
                 </tr>
-                <tr class="test-ERROR">
-                        <td colspan="2"></td>
-                    <td width="100"><span class="top-level-step"><em>ERROR</em></span></td>
-                    <td width="100"><span class="top-level-step"><em>3.23s</em></span></td>
+                <tr class="test-SUCCESS">
+                        <td colspan="3"></td>
+                    <td width="100"><span class="top-level-step"><em>SUCCESS</em></span></td>
+                    <td width="100"><span class="top-level-step"><em>10.21s</em></span></td>
                 </tr>
 
             </table>
