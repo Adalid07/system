@@ -1,0 +1,38 @@
+-------------------------------------------------------------------------------
+Test set: net.serenitybdd.tutorials.features.search.SearchByKeywordStory
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 8.087 sec <<< FAILURE! - in net.serenitybdd.tutorials.features.search.SearchByKeywordStory
+search_results_should_show_the_search_term_in_the_title(net.serenitybdd.tutorials.features.search.SearchByKeywordStory)  Time elapsed: 3.254 sec  <<< ERROR!
+net.thucydides.core.webdriver.DriverConfigurationError: 
+Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 76
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADALID', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00447B13+1473299]
+	Ordinal0 [0x003CAC61+961633]
+	Ordinal0 [0x003541A3+475555]
+	Ordinal0 [0x002EF365+62309]
+	Ordinal0 [0x002EBC77+48247]
+	Ordinal0 [0x00308FD9+167897]
+	Ordinal0 [0x00308BAD+166829]
+	Ordinal0 [0x003072BB+160443]
+	Ordinal0 [0x002F0AE6+68326]
+	Ordinal0 [0x002F1A80+72320]
+	Ordinal0 [0x002F1A19+72217]
+	Ordinal0 [0x003E4A27+1067559]
+	GetHandleVerifier [0x004E66F5+506677]
+	GetHandleVerifier [0x004E6490+506064]
+	GetHandleVerifier [0x004ED038+533624]
+	GetHandleVerifier [0x004E6ECA+508682]
+	Ordinal0 [0x003DC116+1032470]
+	Ordinal0 [0x003DBF8F+1032079]
+	Ordinal0 [0x003E693B+1075515]
+	Ordinal0 [0x003E6AA3+1075875]
+	Ordinal0 [0x003E5A55+1071701]
+	BaseThreadInitThunk [0x742F8494+36]
+	RtlAreBitsSet [0x773341C8+136]
+	RtlAreBitsSet [0x77334198+88]
+). See below for more details.
+	at net.serenitybdd.tutorials.features.search.SearchByKeywordStory.search_results_should_show_the_search_term_in_the_title(SearchByKeywordStory.java:41)
+
