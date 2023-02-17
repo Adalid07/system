@@ -6,6 +6,6 @@
                 "I want to be able to look up the meaning of unusual and impressive words"},
         cardNumber = "#123"
 )
-package net.serenitybdd.tutorials.features.search;
+package cxone.serenity.system.features.search;
 
 import net.thucydides.core.annotations.Narrative;

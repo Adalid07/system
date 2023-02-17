@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="net.serenitybdd.tutorials.features.search.SearchByKeywordStory" skipped="0" tests="1" time="10.21" timestamp="2019-07-16 09:33:52"><testcase classname="net.serenitybdd.tutorials.features.search.SearchByKeywordStory" name="Search results should show the search term in the title"/></testsuite>
