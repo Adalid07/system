@@ -4,7 +4,7 @@ import cxone.serenity.system.tasks.Credentials;
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
-import net.serenitybdd.screenplay.questions.page.TheWebPage;
+import net.thucydides.core.annotations.Issue;
 import net.thucydides.core.annotations.Managed;
 import net.thucydides.core.annotations.Steps;
 import org.junit.Before;
@@ -12,13 +12,12 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
 import cxone.serenity.system.tasks.OpenTheApplication;
-import cxone.serenity.system.tasks.Search;
+
 import static net.serenitybdd.screenplay.GivenWhenThen.*;
-import static net.serenitybdd.screenplay.EventualConsequence.eventually;
 import static org.hamcrest.Matchers.containsString;
 
 @RunWith(SerenityRunner.class)
-public class SearchByKeywordStory {
+public class SearchByKeywordLoginStory {
     Actor user = Actor.named("User");
     @Managed(uniqueSession = true)
     public WebDriver hisBrowser;
@@ -30,7 +29,7 @@ public class SearchByKeywordStory {
     public void userCanBrowseTheWeb() {
         user.can(BrowseTheWeb.with(hisBrowser));
     }
-
+    @Issue("CX-123411")
     @Test
     public void verify_that_forgot_password_hyperlink_is_displaed_on_loggin_page() {
         givenThat(user).wasAbleTo(openTheApplication);

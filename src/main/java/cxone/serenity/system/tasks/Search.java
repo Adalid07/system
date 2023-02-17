@@ -1,36 +1,31 @@
-package net.serenitybdd.tutorials.tasks;
+package cxone.serenity.system.tasks;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Enter;
-import net.serenitybdd.screenplay.actions.Open;
 import net.thucydides.core.annotations.Step;
-import org.openqa.selenium.Keys;
+
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 import static org.openqa.selenium.Keys.ENTER;
 
-import net.serenitybdd.tutorials.ui.SearchBox;
+import cxone.serenity.system.ui.SearchMessage;
 
 public class Search implements Task {
 
-    private final String searchTerm;
+    private final String searchBlockMessage;
 
-
-
-    protected Search(String searchTerm) {
-        this.searchTerm = searchTerm;
+    protected Search(String searchBlockMessage) {
+        this.searchBlockMessage = searchBlockMessage;
     }
 
     @Step("Search for #searchTerm")
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(
-                Enter.theValue(searchTerm)
-                     .into(SearchBox.SEARCH_FIELD)
-                     .thenHit(ENTER)
+                Enter.theValue(searchBlockMessage).into(SearchMessage.SEARCH_FIELD).thenHit(ENTER)
         );
     }
 
-    public static Search forTheTerm(String searchTerm) {
+    public static Search getBockedMessage(String searchTerm) {
         return instrumented(Search.class, searchTerm);
     }
 
